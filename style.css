@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(149, 172, 172);
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+
+h1{
+    background-color: pink;
+    border: 2px solid black;
+    margin: 30px auto;
+    padding: 20px;
+    width: 400px;
+    
+}
+a{
+    display: block;
+    width: 200px;
+    margin: 25px auto;
+    padding: 10px;
+    background-color: rgb(237, 172, 233);
+    color: rgb(142, 80, 80);
+    text-decoration: none;
+    border: 2px solid black;
+}
+a:hover{
+    background-color: rgb(235, 245, 224);
+}
